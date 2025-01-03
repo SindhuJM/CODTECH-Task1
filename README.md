@@ -1,17 +1,12 @@
 Name: SINDHU J M 
 
-
 Company:CODTECH IT SOLUTIONS
-
 
 ID:CT6WDS2446
 
-
 Domain:Python Pogramming
 
-
 Duration:November to January 2025
-
 
 Mentor:MUZAMMIL
 
